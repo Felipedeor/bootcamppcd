@@ -1,0 +1,1 @@
+## Este repositório é um exercício para compreender melhor os usos do GitHub
